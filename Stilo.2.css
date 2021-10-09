@@ -1,0 +1,16 @@
+/*Alvarado Orta EIbram Alexis*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Aharoni;
+    font-size: 1.5rem;
+    background: url(../fondo.jpg);
+    color: red;
+    text-align: center;
+    margin-top: 300px;
+  }
+
